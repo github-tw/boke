@@ -1,37 +1,37 @@
-From: <Saved by Blink>
-Snapshot-Content-Location: https://cdn.jsdelivr.net/gh/HexoPlusPlus/HexoPlusPlus@main/index.js
-Subject: 
-Date: Mon, 14 Aug 2023 14:01:40 -0000
-MIME-Version: 1.0
-Content-Type: multipart/related;
-	type="text/html";
-	boundary="----MultipartBoundary--jV5Bwzklz3erq74XugwEbUKfo7eIifVeB78CVfOmmO----"
+发件人:<由眨眼保存>
+快照-内容-位置:https://cdn . jsdelivr . net/GH/HexoPlusPlus/HexoPlusPlus @ main/index . js
+主题:
+日期:2023年8月14日星期一14:01:40 -0000
+哑剧版本：1.0
+内容类型:多部分/相关；
+类型="文本/html "；
+边界="-多部分边界-JV 5 bwzklz 3 erq 74 ugwebukfo 7 eiifveb 78 cvfommo-"
 
 
-------MultipartBoundary--jV5Bwzklz3erq74XugwEbUKfo7eIifVeB78CVfOmmO----
-Content-Type: text/html
-Content-ID: <frame-5B8225A1E6C4FA6A830F387F19B2009D@mhtml.blink>
-Content-Transfer-Encoding: quoted-printable
-Content-Location: https://cdn.jsdelivr.net/gh/HexoPlusPlus/HexoPlusPlus@main/index.js
+-多方边界-合资企业5bwzklz3erq74ugwebukfo7eiifveb78cvfommo-
+内容类型：文本/html
+内容标识:<框架-5b8225a1 e6C4足协6a830f387f19b2009d@mhtml。眨眼 >
+内容-传输-编码:引用-可打印
+内容位置:https://cdn . jsdelivr . net/GH/hexop lusplus/hexop lusplus @ main/index . js
 
-<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
-=3DUTF-8"></head><body><pre style=3D"word-wrap: break-word; white-space: pr=
-e-wrap;">//const md5=3Drequire ('md5')
+< html > < head > < meta http-equiv =3D"内容类型"内容=3D“文本/html；字符集=
+" > </head > < body > < pre style = 3D " > </head > < body > < pre style = 3D " word-wrap:break-word；空白:pr=
+" >//const MD5 = 3d require(' MD5 ')>//const MD5 = 3d require(' MD5 ')
 
 //=E5=BC=80=E5=8F=91=E8=80=85=E8=AF=B7=E5=B0=86=E4=B8=8A=E8=BF=B0=E4=BE=9D=
-=E8=B5=96=E6=B3=A8=E9=87=8A=E5=8E=BB=E9=99=A4
+= E8 = B5 =96= E6 = B3 = A8 = E9 =87 = 8A = E5 =8E = BB = E9 =99= A4
 
-const hpp_CDNver =3D "d4051c3"
-const hpp_ver =3D "HexoPlusPlus@1.2.0"
-const dev_mode_branch =3D "dist"
-let hpp_logstatus =3D 0
+常量hpp_CDNver =3D" d4051c3 "
+常数const HPP _ ver = 3D " HexoPlusPlus @ 1 . 2 . 0 "hpp =3D" HexoPlusPlus@1.2.0 "3D" HexoPlusPlus@1.2.0 "3D" HexoPlusPlus@1.2.0 "HPP _ ver =3D" HexoPlusPlus @ 1。2 .0 "
+constconst dev_mode_branch =3D"距离"开发模式分支=3d "距离"
+letlet hpp_logstatus =3D 0hpp_logstatus = 3D 0
 
 
-function getJsonLength(jsonData) {
+函数getJsonLength(function getJsonLength(jsonData) {) {
 
-  var jsonLength =3D 0;
+var  var jsonLength =3D 0;jsonLength = 3D 0；
 
-  for (var item in jsonData) {
+for(  for (var item in jsonData) {){
 
     jsonLength++;
 
